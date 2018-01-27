@@ -2,7 +2,7 @@
 
 ## 技术支持
 
- ![image](https://github.com/fkl686/chengrenmomoyue/raw/master/call_man.png)
+ ![image](https://github.com/fkl686/chengrenliaosao/raw/master/call_man.png)
 
 ### 好点子？
 
@@ -18,4 +18,4 @@
 
 邮箱地址：fkl686@163.com
 
-[隐私协议](https://raw.githubusercontent.com/fkl686/chengrenmomoyue/master/privacy.cmd)
+[隐私协议](https://raw.githubusercontent.com/fkl686/chengrenliaosao/master/privacy.cmd)
